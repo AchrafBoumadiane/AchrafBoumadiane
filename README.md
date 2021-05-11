@@ -36,8 +36,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/achraf-boumadiane"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-achraf-boumadiane/%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/achrafboumadiane/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-achrafboumadiane__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/achraf-boumadiane"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-achrafboumadiane/%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/achrafboumadiane/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-achrafboumadiane-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ⭐️ From [Achraf Boumadiane](https://github.com/AchrafBoumadiane)
