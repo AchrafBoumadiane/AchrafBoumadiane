@@ -33,7 +33,7 @@
 - 🖥 &nbsp;
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Canva](https://img.shields.io/badge/-Cava-333333?style=flat&logo=Canva)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=Canva)
 
 <br/>
 
