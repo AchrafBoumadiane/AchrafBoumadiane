@@ -43,7 +43,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/achraf-boumadiane"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-achrafboumadiane-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/AchrafBoumadian"><img alt="Instagram" src="https://img.shields.io/badge/Twitter-achrafboumadiane-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.instagram.com/achrafboumadiane/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-achrafboumadiane-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ⭐️ From [Achraf Boumadiane](https://github.com/AchrafBoumadiane)
