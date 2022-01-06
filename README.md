@@ -19,10 +19,10 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
 - 💻 &nbsp;
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
